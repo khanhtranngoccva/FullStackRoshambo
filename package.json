@@ -1,0 +1,17 @@
+{
+  "name": "vapidmobilecommas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.5.2",
+    "nodemon": "^2.0.16"
+  }
+}
